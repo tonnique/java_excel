@@ -11,13 +11,18 @@ Here i am going to leave the text of freelance job announcement in order when I 
 PLEASE DOWNLOAD THE JAVA PROGRAM & SOURCES FROM THIS LINK:  http://www.filedropper.com/java
 
 I need a modification to the attached Java program. The GUI will have a check field called "Filter". 
-The "Filter" function will be interlinked with the "Modify' function (Modify button) which already exists in the program. If the "Filter" option is checked and the "Modify" button is clicked, the program will filter out data from the text file and transfer it to the excel file. 
+The "Filter" function will be interlinked with the "Modify' function (Modify button) which already exists 
+in the program. If the "Filter" option is checked and the "Modify" button is clicked, the program will filter out 
+data from the text file and transfer it to the excel file. 
 
-The path field for the text file is already in the GUI which is the SECOND field. You will setup a new path field for the Excel file. The excel file may already have some data in it so do NOT overwrite old data. Populate new data just below the old data. 
+The path field for the text file is already in the GUI which is the SECOND field. You will setup a new path field 
+for the Excel file. The excel file may already have some data in it so do NOT overwrite old data. Populate new data 
+just below the old data. 
 
 The data that will be filtered out from the text file and transferred to the Excel file must meet this condition: 
 
-	If the value in the field "tracking-number" is 15 characters or less or blank then remove the entire row from the text file and put in the excel file.
+If the value in the field "tracking-number" is 15 characters or less or blank then remove the entire row from the text 
+file and put in the excel file.
 
 The following fields will be transferred to the excel file and the remaining fields will be ignored.
 
