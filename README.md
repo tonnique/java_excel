@@ -1,6 +1,6 @@
 This project was done by me for two reasons: 
 
-  a) I wanted to learn how to read data from Excel and write data to Excel using Java. I did not complete such tasks before. After some searching I found that i can use apache.poi library.
+  a) I wanted to learn how to read data from Excel and write data to Excel using Java. I did not complete such tasks before. After some searching I found that i can use apache.poi library.<br>
   b) This project I did in hope that I will be given a freelance job. I was hesiteting that I can work around Excel using Java, so i needed to try myself before sent proposal.
 
 The freelance job has been closed and I did not get it. But the work i done, was not in vain, i got new cool skills.
