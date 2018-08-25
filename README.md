@@ -21,8 +21,8 @@ just below the old data.
 
 The data that will be filtered out from the text file and transferred to the Excel file must meet this condition: 
 
-If the value in the field "tracking-number" is 15 characters or less or blank then remove the entire row from the text 
-file and put in the excel file.
+If the value in the field "tracking-number" is 15 characters or less or blank then remove the entire row from 
+the text file and put in the excel file.
 
 The following fields will be transferred to the excel file and the remaining fields will be ignored.
 
@@ -32,6 +32,7 @@ payments-date (example 2018-08-12 ADD T01:08:42-07:00 to all values, so the valu
 ship-date (this field will be blank)
 notes (this field will be blank)
 
-I have attached the sample excel file for your reference. I have also populated the excel file with some random data as an example.
+I have attached the sample excel file for your reference. I have also populated the excel file with 
+some random data as an example.
 
 Thanks.
